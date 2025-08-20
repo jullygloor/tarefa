@@ -1,0 +1,21 @@
+{
+  "name": "Lista de Tarefas Pro",
+  "short_name": "Tarefas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ecf0f1",
+  "theme_color": "#2c3e50",
+  "description": "Gerencie tarefas de forma eficiente, mesmo offline!",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
